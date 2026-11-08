@@ -1,1 +1,3 @@
-git learning ##
+# Git Learning
+
+My Git and GitHub learning notes
